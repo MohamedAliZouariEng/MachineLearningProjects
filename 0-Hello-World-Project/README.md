@@ -120,13 +120,6 @@ The SVM algorithm performed best with 98.33% cross-validation accuracy. The anal
 2. **Class Separability**: Iris-setosa is perfectly separable from the other two species
 3. **Model Selection**: SVM is recommended for this problem due to its superior performance
 
-## 📝 Future Improvements
-
-- Implement deep learning approaches
-- Add feature engineering techniques
-- Include more evaluation metrics
-- Cross-validate with different test sizes
-- Implement ensemble methods
 
 ## 📚 References
 
